@@ -1,0 +1,28 @@
+{
+    "data": 
+        {
+                "server_url": "http://apmovann.com/yassine/speed_api.php",
+                
+              "FBrewardsAds": "xxx",
+                "facebook_banner":"xxxxxxxx",
+                "fbinter":"xxxxx",
+                "fbnative":"xxxxxxxxx",
+                
+                "unityGameID":"xxxx", 
+                "unityrewardId":"video",
+                "unitybanner":"bannerOxoo",
+                "unityinter":"interOxoo",
+
+     
+
+               "admob_app_id":"ca-app-pub-x4935211667382733~8905340816",
+                "admob_banner":"ca-app-pub-x3940256099942544/6300978111",
+                "admobnative":"ca-app-pub-x3940256099942544/2247696110",
+                "admobinter":"ca-app-pub-x3940256099942544/1033173712",
+                "admobreward":"ca-app-pub-x4935211667382733/7241739504"  
+                
+               
+        }
+       
+ 
+}
